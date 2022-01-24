@@ -10,13 +10,14 @@ body{
 
 
 .best-price-background{
-    background-color: #3F87F5;
+    background-color: #990099;
+    color: #FFFFFF;
     border-radius: 25px;
     position: relative;
 }
 .hot-price-legend{
-    background-color: #FF4E4E;
-    color: #fff;
+    background-color: #FF9900;
+    color: #003366;
     border-radius: 25px;
     display: inline;
     padding: 2px 20px;
